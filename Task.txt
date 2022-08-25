@@ -11,6 +11,7 @@ Data Types in Python :
 8) set	- Set
 9) dict	- dictionary
 ---------------------------------
-
+10) bytes
+11) complex
 
 
