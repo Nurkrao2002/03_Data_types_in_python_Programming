@@ -1,0 +1,20 @@
+Data Types in Python  :
+
+1) int	- integer
+2) float	- float
+3) str	- string
+4) bool	- boolean
+5) None	- None
+
+-----------------------------
+
+6) list	- list
+7) tuple	- tuple
+8) set	- set
+9) dict	- dictionary
+
+-----------------------------
+
+10) bytes	- bytes
+11) complex	- complex
+
